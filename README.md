@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pulkit Kumar Sharma</h1>
 <h3 align="center">Imperfect Human Living In This Imperfect World</h3>
 
+![](PKSharma.png)
+
+**पी. के. शर्मा** ... नाम याद रख लीजियेगा ... और अपने बाकी के भ्रष्ट दोस्तों से बोलिएगा कि प्रार्थना करें कि उनके घर पर सीबीआई की रेड ना पड़े ... और अगर पड़े ... तो **पी. के. शर्मा** ना आए
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-k-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="p-k-sharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-k-sharma" alt="p-k-sharma" /></a> </p>

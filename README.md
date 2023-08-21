@@ -11,10 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/pulkits71" target="blank"><img src="https://img.shields.io/twitter/follow/pulkits71?logo=twitter&style=for-the-badge" alt="pulkits71" /></a> </p>
 
-- 🌱 I’m currently learning **Everything Which I don't know**. I am a learner. Improving myself one bit at a time.
-
-- 🎭 Ask me about **Anything**. You can discuss with me about a variety of Topics. From Cooking to Coding. From Politics to Human Behaviour. From Movies to Travelling. I am good at giving "Free Ka Gyan". Only thing is don’t get offended. Reality is sometimes disturbing.
-
 - 👨‍💻 All of my projects are available at [https://p-k-sharma.github.io/](https://p-k-sharma.github.io/)
 
 - 📫 How to reach me **pulkits1998@gmail.com**

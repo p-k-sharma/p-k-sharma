@@ -7,17 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-k-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="p-k-sharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-k-sharma" alt="p-k-sharma" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pulkits71" target="blank"><img src="https://img.shields.io/twitter/follow/pulkits71?logo=twitter&style=for-the-badge" alt="pulkits71" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://p-k-sharma.github.io/](https://p-k-sharma.github.io/)
-
 - 📫 How to reach me **pulkits1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pulkits71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulkits71" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pulkit007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit007" height="30" width="40" /></a>
 <a href="https://instagram.com/__pulkit.sharma__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__pulkit.sharma__" height="30" width="40" /></a>
 </p>

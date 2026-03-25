@@ -4,7 +4,7 @@
 
 <h3>A passionate developer from India 🇮🇳</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=940&lines=Imperfect+Human+Living+In+This+Imperfect+World;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=940&lines=असली पावर दिल में होती है;हम शरीफ क्या हुए, पूरी दुनिया ही बदमाश बन गई" alt="Typing SVG" />
 
 </div>
 
